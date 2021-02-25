@@ -6,20 +6,22 @@ For bootcamp, we were tasked with creating a mock React web application that all
 
 When a user inputs relevant text such as "moon" or "rocket" into the search area, the relevant images from NASA's image databse will be displayed.
 
-</P>
+</p>
 <h2> 
 Technologies Used
 </h2>
-<h2>
-Screenshot
-<h2>
-<br />
-<img src='./images/Project-Screenshot.png' alt="browser screenshot" width='300px' />
 <p>
 We used a range of technologies for this project including React, Jest, The React Testing Library, CSS and Nasa's API.
-<h3>
+</p>
+<h2>
+Screenshot
+</h2>
+<div>
+<img src='./images/Project-Screenshot.png' alt="browser screenshot" width='450px' height='200px />
+</div>
+<h2>
 Instructions to run the app
-</h3>
+</h2>
 <p>
 Please feel free to clone the repo into your terminal. From there, you can run npm start to run the project locally in the browser or use npm test to run the tests 
 </p>
