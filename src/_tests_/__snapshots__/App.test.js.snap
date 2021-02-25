@@ -29,6 +29,15 @@ exports[`App renders correctly 1`] = `
         </button>
       </form>
     </div>
+    <div
+      class="search-results"
+    >
+      <p
+        class="search-info"
+      >
+        Please enter a relevant search term to return image results from Nasa's API
+      </p>
+    </div>
   </div>
 </DocumentFragment>
 `;

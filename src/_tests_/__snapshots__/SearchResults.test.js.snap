@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchResults /> renders and matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="image-container"
+  >
+    <img
+      alt="spaceImage"
+      class="card-image"
+      src="https://images-assets.nasa.gov/image/PIA08946/PIA08946~thumb.jpg"
+    />
+  </div>
+  <div
+    class="image-container"
+  >
+    <img
+      alt="spaceImage"
+      class="card-image"
+      src="https://images-assets.nasa.gov/image/PIA09000/PIA09000~thumb.jpg"
+    />
+  </div>
+</DocumentFragment>
+`;

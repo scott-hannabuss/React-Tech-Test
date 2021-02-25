@@ -13,7 +13,9 @@ function App() {
         alt="nasaLogo"
       />
       <Search setSearchResults={setSearchResults} />
+      <div className="search-results">
       <SearchResults results={searchResults} />
+      </div>
     </div>
   );
 }
