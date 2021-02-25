@@ -16,18 +16,16 @@ We used a range of technologies for this project including React, Jest, The Reac
 <h2>
 Screenshot
 </h2>
-<div>
-<img src='./images/Project-Screenshot.png' alt="browser screenshot" width='450px' height='200px />
-</div>
+<img src='./images/Project-Screenshot.png' alt="browser screenshot" width='450px' height='200px'/>
 <h2>
 Instructions to run the app
 </h2>
 <p>
 Please feel free to clone the repo into your terminal. From there, you can run npm start to run the project locally in the browser or use npm test to run the tests 
 </p>
-<h4>
+<h2>
 Author and credits 
-<h4>
+</h2>
 <p>
 Created by Scott Hannabuss with thanks to Manchester Codes who provided a basic outline on how to create the app, and NASA for allowing access to their api. 
 </p>
