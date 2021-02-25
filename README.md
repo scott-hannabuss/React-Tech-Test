@@ -2,7 +2,7 @@
 Mock React Technical Test 
 </h1>
 <p>
-For bootcamp, we were tasked with creating a mock React web application that allows users to search and retrieve images from the NASA image databse through their API.
+For bootcamp, we were tasked with creating a mock React web application that allows users to search and retrieve images from the NASA image database through their API.
 
 When a user inputs relevant text such as "moon" or "rocket" into the search area, the relevant images from NASA's image databse will be displayed.
 
@@ -17,6 +17,8 @@ We used a range of technologies for this project including React, Jest, The Reac
 Screenshot
 </h2>
 <img src='./images/Project-Screenshot.png' alt="browser screenshot" width='450px' height='200px'/>
+<br>
+<img src='./images/Project-Screenshot2.png' alt="browser screenshot" width='450px' height='200px'/>
 <h2>
 Instructions to run the app
 </h2>
